@@ -1,0 +1,31 @@
+body{
+    background-image: url("back_image.jpg");
+    background-repeat: no-repeat;
+}
+ul{
+    font-size: 25px;
+    color: white;
+    background-color: #4CAAB9;
+}
+li{
+    display: block;
+    float: right;
+}
+h1{
+    color: #4CAAB9;
+}
+button{
+    font-size: 25px;
+    color: green;
+    background-color: #4CAAB9;
+    padding: 5px;
+    border-radius: 10px;
+
+}
+img{
+    border-radius: 15px;
+}
+#css3{
+    width: 400px;
+    margin: auto;
+}
